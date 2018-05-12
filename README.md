@@ -6,6 +6,9 @@ It currently supports full fbx binary format. It works even with larger files.
 
 Also includes fbxdump which allows you to inspect fbx files in json format.
 
+# tigrazone version  
+I want to replace dependency ZLIB to miniz.c, replace strings compare to hashed search for more speed and simpicity
+
 # References
 
 [FBX format description](https://code.blender.org/2013/08/fbx-binary-file-format-specification/)
